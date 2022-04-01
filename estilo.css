@@ -1,0 +1,34 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+
+body{
+    font-family: 'Oswald', sans-serif,monospace;
+    background-color: black;
+    color:white;
+     font-weight:700 ;
+}
+
+.main{
+
+
+    margin:0 auto;
+    display: flex;
+    width: 400px;
+    gap: 20px;
+    flex-direction: column;
+
+    margin: top 200px;
+}
+
+input{
+    height: 30px;
+}
+
+
+
+.resultado{
+    font-size: 30px;
+    color :darkgoldenrod;
+}
